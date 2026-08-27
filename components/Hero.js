@@ -18,7 +18,7 @@ export default function Hero() {
             <span>Frozen Goods</span><b>VS</b><span>Hot Meals</span>
           </div>
           <div className="hero-actions">
-            <a className="button button-blue" href="#media">See the game</a>
+            <a className="button button-blue" href="#trailer">Watch trailer</a>
             <a className="button button-yellow" href="#wishlist">Wishlist</a>
           </div>
         </div>
